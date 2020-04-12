@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willlye.github.io</id>
     <title>十砳 · 设计作品集</title>
-    <updated>2020-04-12T07:09:11.518Z</updated>
+    <updated>2020-04-12T14:15:40.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://willlye.github.io"/>
     <link rel="self" href="https://willlye.github.io/atom.xml"/>
@@ -22,8 +22,19 @@
 <p>目前两个角色在 Banner 及移动端一些页面上已经开始使用，希望通过不断地增加曝光率使用户今后在看到这两个角色的时候，就立刻能联想到微加。</p>
 <h3 id="使用工具">使用工具</h3>
 <p><code>C4D</code></p>
-<img src="/post-images/3d_vj1.png">
-<img src="/post-images/3d_vj2.png">]]></content>
+<img src="/post-images/3d_vj.png">]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D场景设计]]></title>
+        <id>https://willlye.github.io/post/3d_scene/</id>
+        <link href="https://willlye.github.io/post/3d_scene/">
+        </link>
+        <updated>2020-04-11T04:17:20.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="项目描述">项目描述</h3>
+<p>配合运营需求，使用微加 IP 形象制作的一些场景展示。</p>
+<h3 id="使用工具">使用工具</h3>
+<p><code>C4D</code></p>
+<img src="/post-images/3d_scene.png">]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[学习地图设计]]></title>
@@ -58,7 +69,7 @@
         </link>
         <updated>2020-04-06T12:25:08.000Z</updated>
         <content type="html"><![CDATA[<h3 id="描述">描述</h3>
-<p>社区成就系统勋章ICON设计</p>
+<p>为社区成就系统打造的一套等级勋章图标。</p>
 <h3 id="使用工具">使用工具</h3>
 <p><code>Sketch</code></p>
 <img src="/post-images/ui_icon.png">]]></content>
@@ -141,17 +152,5 @@
 <h3 id="使用工具">使用工具</h3>
 <p><code>Sketch</code> <code>Sublime Text</code> <code>Gridea</code></p>
 <img src="/post-images/web_styleguides.png">]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卓信云官网]]></title>
-        <id>https://willlye.github.io/post/web_zxy/</id>
-        <link href="https://willlye.github.io/post/web_zxy/">
-        </link>
-        <updated>2020-04-06T06:05:37.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="项目描述">项目描述</h3>
-<p>为卓信公司设计的一套网站，对方偏向于清爽简洁的风格，整个界面设计以扁平、明快为主。</p>
-<h3 id="使用工具">使用工具</h3>
-<p><code>Sketch</code></p>
-<img src="/post-images/web_zxy.png">]]></content>
     </entry>
 </feed>
