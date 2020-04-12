@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://willlye.github.io</id>
+    <title>十砳 · 设计作品集</title>
+    <updated>2020-04-12T07:09:11.518Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://willlye.github.io"/>
+    <link rel="self" href="https://willlye.github.io/atom.xml"/>
+    <logo>https://willlye.github.io/images/avatar.png</logo>
+    <icon>https://willlye.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 十砳 · 设计作品集</rights>
+    <entry>
+        <title type="html"><![CDATA[微加卡通角色设计]]></title>
+        <id>https://willlye.github.io/post/3d_vj/</id>
+        <link href="https://willlye.github.io/post/3d_vj/">
+        </link>
+        <updated>2020-04-11T06:43:24.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="项目描述">项目描述</h3>
+<p>为提高微加品牌辨识度设计的 IP 形象。</p>
+<p>在如何提升公司产品的品牌辨识度问题上，我有过一些思考。通过对大部分竞品的分析，我发现目前各家的设计都是在朝着界面简洁、色彩明快的方向走，这就让大家的产品同质化问题更加严重。</p>
+<p>现在 C4D 在 UI 设计上被使用得越来越多，但是目前竞品当中还没有发现有哪家在使用 IP 形象的，所以我决定开始尝试为微加打造一对职场白领的卡通角色，使之逐渐成为能够代表微加产品的 IP 形象。</p>
+<p>目前两个角色在 Banner 及移动端一些页面上已经开始使用，希望通过不断地增加曝光率使用户今后在看到这两个角色的时候，就立刻能联想到微加。</p>
+<h3 id="使用工具">使用工具</h3>
+<p><code>C4D</code></p>
+<img src="/post-images/3d_vj1.png">
+<img src="/post-images/3d_vj2.png">]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习地图设计]]></title>
+        <id>https://willlye.github.io/post/GxxwXKbyl/</id>
+        <link href="https://willlye.github.io/post/GxxwXKbyl/">
+        </link>
+        <updated>2020-04-07T14:25:08.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="描述">描述</h3>
+<h3 id="使用工具">使用工具</h3>
+<p><code>Sketch</code></p>
+<img src="/post-images/ui_icon.png">]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微加移动端界面设计]]></title>
+        <id>https://willlye.github.io/post/ui_vj/</id>
+        <link href="https://willlye.github.io/post/ui_vj/">
+        </link>
+        <updated>2020-04-06T15:09:41.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="项目描述">项目描述</h3>
+<p>微加——企业微信优秀的服务商，基于企业微信开发，向企业级用户提供工作沟通，行政管理，文化建设于一体的办公协作系统平台，已为 10W+ 家企业提供服务。</p>
+<p>微加共有 7 大应用，20+ 功能，覆盖学习、办公、文化、营销、党建等多个领域，主打企业办公，所以设计风格偏向于简洁清爽，同时追求优雅精致。</p>
+<h3 id="项目地址">项目地址</h3>
+<p><a href="https://open.work.weixin.qq.com/app">企业微信应用市场</a></p>
+<h3 id="使用工具">使用工具</h3>
+<p><code>Sketch</code> <code>C4D</code></p>
+<img src="/post-images/ui_vj.png">]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[勋章ICON设计]]></title>
+        <id>https://willlye.github.io/post/ui_icon/</id>
+        <link href="https://willlye.github.io/post/ui_icon/">
+        </link>
+        <updated>2020-04-06T12:25:08.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="描述">描述</h3>
+<p>社区成就系统勋章ICON设计</p>
+<h3 id="使用工具">使用工具</h3>
+<p><code>Sketch</code></p>
+<img src="/post-images/ui_icon.png">]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电信智慧大屏项目]]></title>
+        <id>https://willlye.github.io/post/ui_dx_pad/</id>
+        <link href="https://willlye.github.io/post/ui_dx_pad/">
+        </link>
+        <updated>2020-04-06T08:41:31.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="项目描述">项目描述</h3>
+<p>浙江电信智慧运营平台系列项目，包括：</p>
+<ul>
+<li>浙江电信数据战报</li>
+<li>智慧运营平台</li>
+<li>社区攻防</li>
+</ul>
+<h3 id="使用工具">使用工具</h3>
+<p><code>Photoshop</code> <code>Sketch</code></p>
+<img src="/post-images/ui_dx_pad.png">]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[早期电信 APP 项目]]></title>
+        <id>https://willlye.github.io/post/ui_dx/</id>
+        <link href="https://willlye.github.io/post/ui_dx/">
+        </link>
+        <updated>2020-04-06T08:40:31.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="项目描述">项目描述</h3>
+<p>2014年 - 2016年期间做过的一些电信 APP 项目，包括：</p>
+<ul>
+<li>iEip</li>
+<li>iSee</li>
+<li>iWork</li>
+<li>iSale</li>
+</ul>
+<h3 id="使用工具">使用工具</h3>
+<p><code>Photoshop</code> <code>Sketch</code></p>
+<img src="/post-images/ui_dx.png">]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微加官网改版]]></title>
+        <id>https://willlye.github.io/post/web_vj/</id>
+        <link href="https://willlye.github.io/post/web_vj/">
+        </link>
+        <updated>2020-04-06T06:30:25.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="项目背景">项目背景</h3>
+<p>微加项目自成立以来，网站经历过大大小小数次改版，经过数位设计师之手，由于前期没有形成规范，这就导致整个网站看起来非常凌乱，没有统一的风格和交互逻辑，甚至许多页面的字号都存在偏差。</p>
+<p>为了避免后期再出现风格混乱的问题，首先由我在界面简洁、交互清晰的基本原则基础上，将“更轻、更快、更优雅”作为目标，独自进行网站改版的设计。在设计的同时也开始制定整个网站的规范，用 Sketch 将色彩、字号、圆角、间距等元素提前定义好，做成组件来进行管理。</p>
+<p>我希望用户在浏览网站时不会感觉沉闷和繁琐，所以在简化了页面层级和交互逻辑的基础上，我还要求加入一些微动效，尽量使用户在操作页面时能够感觉轻量、流畅，甚至赏心悦目。</p>
+<h3 id="项目地址">项目地址</h3>
+<p><a href="https://www.51vj.cn" target="_blank">https://www.51vj.cn</a></p>
+<h3 id="使用工具">使用工具</h3>
+<p><code>Sketch</code> <code>C4D</code></p>
+<img src="/post-images/web_vj.png">]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专题&Banner设计]]></title>
+        <id>https://willlye.github.io/post/web_h5/</id>
+        <link href="https://willlye.github.io/post/web_h5/">
+        </link>
+        <updated>2020-04-06T06:14:19.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="项目描述">项目描述</h3>
+<p>一些活动专题页面以及网站 Banner、运营推送头图设计。</p>
+<h3 id="使用工具">使用工具</h3>
+<p><code>Sketch</code> <code>C4D</code></p>
+<img src="/post-images/web_h5.png">
+<img src="/post-images/web_banner.png">]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[设计规范网站]]></title>
+        <id>https://willlye.github.io/post/web_styleguides/</id>
+        <link href="https://willlye.github.io/post/web_styleguides/">
+        </link>
+        <updated>2020-04-06T06:14:19.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="项目描述">项目描述</h3>
+<p>为微加移动端、PC后台制作的设计规范网站，将所有可能使用到的设计组件都做了整理，前端开发同事可以很方便地在这里下载设计切图，以及查看各个组件的标注。</p>
+<p>此网站的设计、开发均独自完成。</p>
+<h3 id="项目地址">项目地址</h3>
+<p>公司内部共享，不便公开地址。</p>
+<h3 id="使用工具">使用工具</h3>
+<p><code>Sketch</code> <code>Sublime Text</code> <code>Gridea</code></p>
+<img src="/post-images/web_styleguides.png">]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卓信云官网]]></title>
+        <id>https://willlye.github.io/post/web_zxy/</id>
+        <link href="https://willlye.github.io/post/web_zxy/">
+        </link>
+        <updated>2020-04-06T06:05:37.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="项目描述">项目描述</h3>
+<p>为卓信公司设计的一套网站，对方偏向于清爽简洁的风格，整个界面设计以扁平、明快为主。</p>
+<h3 id="使用工具">使用工具</h3>
+<p><code>Sketch</code></p>
+<img src="/post-images/web_zxy.png">]]></content>
+    </entry>
+</feed>

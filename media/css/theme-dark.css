@@ -1,0 +1,10 @@
+:root{
+	--color1:rgba(255,255,255,1);
+	--color2:rgba(255,255,255,.65);
+	--color3:rgba(255,255,255,.3);
+	--color4:rgba(255,255,255,.1);
+	--bg:#484F64;
+}
+
+.theme-switch{background:url(/media/images/icon_light.svg);}
+.banner a:hover{color:rgba(0,0,0,.65);}
