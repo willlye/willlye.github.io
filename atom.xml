@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willlye.github.io</id>
     <title>十砳 · 设计作品集</title>
-    <updated>2020-04-16T14:31:35.777Z</updated>
+    <updated>2020-04-18T10:10:10.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://willlye.github.io"/>
     <link rel="self" href="https://willlye.github.io/atom.xml"/>
@@ -71,9 +71,11 @@
         </link>
         <updated>2020-04-06T12:25:08.000Z</updated>
         <content type="html"><![CDATA[<h3 id="项目描述">项目描述</h3>
-<p>为社区成就系统打造的一套等级勋章图标。</p>
+<p>签到领勋章，为社区成就系统打造的一套等级勋章图标。</p>
+<p>微加微社区是企业内部的朋友圈，具有舒适习惯的交互体验，更强大的功能。支持自定义皮肤、匿名、评论区盖楼、每日签到等功能。</p>
+<p>在社区每日签到可领取勋章，保证社区的活跃度。</p>
 <h3 id="项目职责">项目职责</h3>
-<p>负责图标的视觉设计。</p>
+<p>负责勋章基本形态定义及全套 ICON 设计。</p>
 <h3 id="使用工具">使用工具</h3>
 <p><code>Sketch</code></p>
 <img src="/post-images/ui_icon.png">]]></content>
