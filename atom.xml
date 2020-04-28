@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willlye.github.io</id>
     <title>十砳 · 设计作品集</title>
-    <updated>2020-04-18T12:34:05.246Z</updated>
+    <updated>2020-04-28T08:45:47.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://willlye.github.io"/>
     <link rel="self" href="https://willlye.github.io/atom.xml"/>
@@ -81,7 +81,7 @@
 <img src="/post-images/ui_icon.png">]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[电信智慧大屏项目]]></title>
+        <title type="html"><![CDATA[浙江电信智慧大屏项目]]></title>
         <id>https://willlye.github.io/post/ui_dx_pad/</id>
         <link href="https://willlye.github.io/post/ui_dx_pad/">
         </link>
@@ -107,12 +107,12 @@
         </link>
         <updated>2020-04-06T08:40:31.000Z</updated>
         <content type="html"><![CDATA[<h3 id="项目描述">项目描述</h3>
-<p>2014年 - 2016年期间做过的一些电信 APP 项目，包括：</p>
+<p>2014年 - 2017年期间做过的一些电信 APP 项目，包括：</p>
 <ul>
 <li>iEip</li>
+<li>iSale</li>
 <li>iSee</li>
 <li>iWork</li>
-<li>iSale</li>
 </ul>
 <h3 id="项目职责">项目职责</h3>
 <p>负责界面风格的把控和交互的优化，呈现效果图并对新增内容做交互动效演示，最终输出便于工程师开发的标注文档。</p>
